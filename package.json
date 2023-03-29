@@ -1,0 +1,26 @@
+{
+  "name": "discord-chatgpt",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shih-Yu/Discord-chatgpt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shih-Yu/Discord-chatgpt/issues"
+  },
+  "homepage": "https://github.com/Shih-Yu/Discord-chatgpt#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
